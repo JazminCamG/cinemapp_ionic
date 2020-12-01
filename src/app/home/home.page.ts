@@ -30,5 +30,6 @@ export class HomePage implements OnInit {
     });
     // this.peliculasService.getPeliculas();
   }
+  
 
 }
